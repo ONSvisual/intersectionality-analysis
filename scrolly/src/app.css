@@ -1,0 +1,12 @@
+#scroller1 .ons-page__container--narrow, #scroller2 .ons-page__container--narrow {
+    margin: 0 0 0 auto;
+}
+
+mark.em.nowrap{
+    white-space: normal!important;
+}
+
+.ons-btn{
+    margin-bottom: 15px;
+    white-space: normal!important;
+}

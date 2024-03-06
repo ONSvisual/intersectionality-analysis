@@ -1,0 +1,210 @@
+name,category,value,cat
+Other: Arab,model1,21.1711714,Disabled adults
+Mixed: White and Black African,model1,19.1221799,Disabled adults
+Mixed: White and Black Caribbean,model1,18.2662991,Disabled adults
+Black: Other,model1,16.134359,Disabled adults
+Black: African,model1,15.976826,Disabled adults
+Asian: Bangladeshi,model1,15.725638,Disabled adults
+White: Gypsy or Irish Traveller,model1,15.6634702,Disabled adults
+Mixed: Other,model1,15.0115644,Disabled adults
+White: Roma,model1,14.9840597,Disabled adults
+Mixed: White and Asian,model1,13.6490968,Disabled adults
+Other: Any other ethnic group,model1,13.3741282,Disabled adults
+Black: Caribbean,model1,13.3160529,Disabled adults
+Asian: Pakistani,model1,12.6705512,Disabled adults
+Asian: Other,model1,10.5922342,Disabled adults
+White: Other,model1,9.7469185,Disabled adults
+White: Irish,model1,9.4191104,Disabled adults
+Asian: Indian,model1,8.8074412,Disabled adults
+Asian: Chinese,model1,8.8022149,Disabled adults
+White: British,model1,8.352396,Disabled adults
+Other: Arab,model1,13.5499527,Non-disabled adults
+Mixed: White and Black African,model1,12.0258387,Non-disabled adults
+Mixed: White and Black Caribbean,model1,11.4772428,Non-disabled adults
+Black: Other,model1,14.6169674,Non-disabled adults
+Black: African,model1,11.9933813,Non-disabled adults
+Asian: Bangladeshi,model1,11.4215224,Non-disabled adults
+White: Gypsy or Irish Traveller,model1,13.3710948,Non-disabled adults
+Mixed: Other,model1,8.8686099,Non-disabled adults
+White: Roma,model1,7.5064232,Non-disabled adults
+Mixed: White and Asian,model1,8.0593966,Non-disabled adults
+Other: Any other ethnic group,model1,8.5509431,Non-disabled adults
+Black: Caribbean,model1,11.0625421,Non-disabled adults
+Asian: Pakistani,model1,9.6381164,Non-disabled adults
+Asian: Other,model1,6.7450558,Non-disabled adults
+White: Other,model1,5.127746,Non-disabled adults
+White: Irish,model1,4.3998632,Non-disabled adults
+Asian: Indian,model1,6.279876,Non-disabled adults
+Asian: Chinese,model1,5.8433486,Non-disabled adults
+White: British,model1,4.3738818,Non-disabled adults
+Other: Arab,model2,17.8110984,Disabled adults
+Mixed: White and Black African,model2,12.3810859,Disabled adults
+Mixed: White and Black Caribbean,model2,10.793224,Disabled adults
+Black: Other,model2,12.5118014,Disabled adults
+Black: African,model2,12.45292,Disabled adults
+Asian: Bangladeshi,model2,11.5739517,Disabled adults
+White: Gypsy or Irish Traveller,model2,11.4431682,Disabled adults
+Mixed: Other,model2,10.3044996,Disabled adults
+White: Roma,model2,12.0483181,Disabled adults
+Mixed: White and Asian,model2,7.9976557,Disabled adults
+Other: Any other ethnic group,model2,11.2148004,Disabled adults
+Black: Caribbean,model2,11.0996306,Disabled adults
+Asian: Pakistani,model2,9.6149303,Disabled adults
+Asian: Other,model2,8.5580509,Disabled adults
+White: Other,model2,7.8697274,Disabled adults
+White: Irish,model2,8.1283308,Disabled adults
+Asian: Indian,model2,7.594559,Disabled adults
+Asian: Chinese,model2,7.3976374,Disabled adults
+White: British,model2,6.2024963,Disabled adults
+Other: Arab,model2,9.5968876,Non-disabled adults
+Mixed: White and Black African,model2,6.5460935,Non-disabled adults
+Mixed: White and Black Caribbean,model2,5.8810798,Non-disabled adults
+Black: Other,model2,9.5410686,Non-disabled adults
+Black: African,model2,8.545935,Non-disabled adults
+Asian: Bangladeshi,model2,6.8539339,Non-disabled adults
+White: Gypsy or Irish Traveller,model2,7.9912551,Non-disabled adults
+Mixed: Other,model2,5.4796172,Non-disabled adults
+White: Roma,model2,5.0074488,Non-disabled adults
+Mixed: White and Asian,model2,4.37492,Non-disabled adults
+Other: Any other ethnic group,model2,6.2307887,Non-disabled adults
+Black: Caribbean,model2,8.177519,Non-disabled adults
+Asian: Pakistani,model2,6.0264448,Non-disabled adults
+Asian: Other,model2,4.919309,Non-disabled adults
+White: Other,model2,3.8882004,Non-disabled adults
+White: Irish,model2,3.6221501,Non-disabled adults
+Asian: Indian,model2,4.7225557,Non-disabled adults
+Asian: Chinese,model2,4.6257813,Non-disabled adults
+White: British,model2,2.8666981,Non-disabled adults
+Other: Arab,model3,16.4385791,Disabled adults
+Mixed: White and Black African,model3,11.7797305,Disabled adults
+Mixed: White and Black Caribbean,model3,10.4366313,Disabled adults
+Black: Other,model3,11.5451108,Disabled adults
+Black: African,model3,11.4473623,Disabled adults
+Asian: Bangladeshi,model3,10.5470691,Disabled adults
+White: Gypsy or Irish Traveller,model3,12.0371148,Disabled adults
+Mixed: Other,model3,9.9968822,Disabled adults
+White: Roma,model3,11.5297989,Disabled adults
+Mixed: White and Asian,model3,7.8052957,Disabled adults
+Other: Any other ethnic group,model3,10.5024682,Disabled adults
+Black: Caribbean,model3,10.1490064,Disabled adults
+Asian: Pakistani,model3,8.8587136,Disabled adults
+Asian: Other,model3,7.9787754,Disabled adults
+White: Other,model3,7.6322105,Disabled adults
+White: Irish,model3,7.9024749,Disabled adults
+Asian: Indian,model3,7.0713508,Disabled adults
+Asian: Chinese,model3,6.8648945,Disabled adults
+White: British,model3,6.2262636,Disabled adults
+Other: Arab,model3,8.8098617,Non-disabled adults
+Mixed: White and Black African,model3,6.2633426,Non-disabled adults
+Mixed: White and Black Caribbean,model3,5.636487,Non-disabled adults
+Black: Other,model3,8.8319667,Non-disabled adults
+Black: African,model3,7.9210322,Non-disabled adults
+Asian: Bangladeshi,model3,6.2246816,Non-disabled adults
+White: Gypsy or Irish Traveller,model3,8.3865373,Non-disabled adults
+Mixed: Other,model3,5.2663506,Non-disabled adults
+White: Roma,model3,4.6891091,Non-disabled adults
+Mixed: White and Asian,model3,4.2518546,Non-disabled adults
+Other: Any other ethnic group,model3,5.8010481,Non-disabled adults
+Black: Caribbean,model3,7.4662475,Non-disabled adults
+Asian: Pakistani,model3,5.5531997,Non-disabled adults
+Asian: Other,model3,4.6282546,Non-disabled adults
+White: Other,model3,3.7251979,Non-disabled adults
+White: Irish,model3,3.4800927,Non-disabled adults
+Asian: Indian,model3,4.4188119,Non-disabled adults
+Asian: Chinese,model3,4.345992,Non-disabled adults
+White: British,model3,2.8989108,Non-disabled adults
+Other: Arab,model4,16.273854,Disabled adults
+Mixed: White and Black African,model4,11.6065157,Disabled adults
+Mixed: White and Black Caribbean,model4,10.0070175,Disabled adults
+Black: Other,model4,11.4465537,Disabled adults
+Black: African,model4,11.6112183,Disabled adults
+Asian: Bangladeshi,model4,9.7277018,Disabled adults
+White: Gypsy or Irish Traveller,model4,9.383974,Disabled adults
+Mixed: Other,model4,10.1015828,Disabled adults
+White: Roma,model4,10.2902797,Disabled adults
+Mixed: White and Asian,model4,7.954589,Disabled adults
+Other: Any other ethnic group,model4,10.0500935,Disabled adults
+Black: Caribbean,model4,9.8822736,Disabled adults
+Asian: Pakistani,model4,8.3149505,Disabled adults
+Asian: Other,model4,7.7382208,Disabled adults
+White: Other,model4,7.6406163,Disabled adults
+White: Irish,model4,8.2200474,Disabled adults
+Asian: Indian,model4,7.2409491,Disabled adults
+Asian: Chinese,model4,7.2965434,Disabled adults
+White: British,model4,6.0374274,Disabled adults
+Other: Arab,model4,8.7777693,Non-disabled adults
+Mixed: White and Black African,model4,6.2100013,Non-disabled adults
+Mixed: White and Black Caribbean,model4,5.4059512,Non-disabled adults
+Black: Other,model4,8.8067781,Non-disabled adults
+Black: African,model4,8.0256693,Non-disabled adults
+Asian: Bangladeshi,model4,5.8578157,Non-disabled adults
+White: Gypsy or Irish Traveller,model4,6.4246714,Non-disabled adults
+Mixed: Other,model4,5.2372227,Non-disabled adults
+White: Roma,model4,3.8540926,Non-disabled adults
+Mixed: White and Asian,model4,4.3916401,Non-disabled adults
+Other: Any other ethnic group,model4,5.3247784,Non-disabled adults
+Black: Caribbean,model4,7.2395741,Non-disabled adults
+Asian: Pakistani,model4,5.3363556,Non-disabled adults
+Asian: Other,model4,4.4505301,Non-disabled adults
+White: Other,model4,3.4836372,Non-disabled adults
+White: Irish,model4,3.6330751,Non-disabled adults
+Asian: Indian,model4,4.5803679,Non-disabled adults
+Asian: Chinese,model4,4.4606181,Non-disabled adults
+White: British,model4,2.8351303,Non-disabled adults
+Other: Arab,model5,17.2425822,Disabled adults
+Mixed: White and Black African,model5,10.74194,Disabled adults
+Mixed: White and Black Caribbean,model5,9.3604368,Disabled adults
+Black: Other,model5,10.3567134,Disabled adults
+Black: African,model5,11.1042887,Disabled adults
+Asian: Bangladeshi,model5,11.0802226,Disabled adults
+White: Gypsy or Irish Traveller,model5,9.1390693,Disabled adults
+Mixed: Other,model5,9.4206001,Disabled adults
+White: Roma,model5,9.2994564,Disabled adults
+Mixed: White and Asian,model5,7.5267067,Disabled adults
+Other: Any other ethnic group,model5,10.3574128,Disabled adults
+Black: Caribbean,model5,8.8110912,Disabled adults
+Asian: Pakistani,model5,9.4510269,Disabled adults
+Asian: Other,model5,8.317905,Disabled adults
+White: Other,model5,7.2184646,Disabled adults
+White: Irish,model5,7.6619663,Disabled adults
+Asian: Indian,model5,8.0475526,Disabled adults
+Asian: Chinese,model5,7.1268159,Disabled adults
+White: British,model5,5.9402273,Disabled adults
+Other: Arab,model5,9.8951746,Non-disabled adults
+Mixed: White and Black African,model5,6.1868522,Non-disabled adults
+Mixed: White and Black Caribbean,model5,5.3590218,Non-disabled adults
+Black: Other,model5,8.5391789,Non-disabled adults
+Black: African,model5,8.399009,Non-disabled adults
+Asian: Bangladeshi,model5,6.9200911,Non-disabled adults
+White: Gypsy or Irish Traveller,model5,6.5287076,Non-disabled adults
+Mixed: Other,model5,5.3412596,Non-disabled adults
+White: Roma,model5,3.8007727,Non-disabled adults
+Mixed: White and Asian,model5,4.4688929,Non-disabled adults
+Other: Any other ethnic group,model5,5.7599286,Non-disabled adults
+Black: Caribbean,model5,6.8975656,Non-disabled adults
+Asian: Pakistani,model5,6.4430552,Non-disabled adults
+Asian: Other,model5,5.0752832,Non-disabled adults
+White: Other,model5,3.5193449,Non-disabled adults
+White: Irish,model5,3.640569,Non-disabled adults
+Asian: Indian,model5,5.4797979,Non-disabled adults
+Asian: Chinese,model5,4.7126756,Non-disabled adults
+White: British,model5,2.9299162,Non-disabled adults
+Other: Arab,Unemployment,14.3,People aged 16 years and over who were actively engaged in the labour market
+Black: Other,Unemployment,14.2,People aged 16 years and over who were actively engaged in the labour market
+White: Gypsy or Irish Traveller,Unemployment,12.7,People aged 16 years and over who were actively engaged in the labour market
+Mixed: White and Black Caribbean,Unemployment,12.4,People aged 16 years and over who were actively engaged in the labour market
+Mixed: White and Black African,Unemployment,12.3,People aged 16 years and over who were actively engaged in the labour market
+Black: African,Unemployment,12.2,People aged 16 years and over who were actively engaged in the labour market
+Asian: Bangladeshi,Unemployment,11.7,People aged 16 years and over who were actively engaged in the labour market
+Black: Caribbean,Unemployment,11.2,People aged 16 years and over who were actively engaged in the labour market
+Asian: Pakistani,Unemployment,9.8,People aged 16 years and over who were actively engaged in the labour market
+Mixed: Other,Unemployment,9.8,People aged 16 years and over who were actively engaged in the labour market
+Other: Any other ethnic group,Unemployment,8.8,People aged 16 years and over who were actively engaged in the labour market
+Mixed: White and Asian,Unemployment,8.5,People aged 16 years and over who were actively engaged in the labour market
+White: Roma,Unemployment,7.8,People aged 16 years and over who were actively engaged in the labour market
+Asian: Other,Unemployment,7,People aged 16 years and over who were actively engaged in the labour market
+Asian: Indian,Unemployment,6.4,People aged 16 years and over who were actively engaged in the labour market
+Asian: Chinese,Unemployment,6.3,People aged 16 years and over who were actively engaged in the labour market
+White: Other,Unemployment,5.4,People aged 16 years and over who were actively engaged in the labour market
+White: British,Unemployment,4.9,People aged 16 years and over who were actively engaged in the labour market
+White: Irish,Unemployment,4.7,People aged 16 years and over who were actively engaged in the labour market
